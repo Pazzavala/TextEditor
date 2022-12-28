@@ -71,6 +71,7 @@ public class TextEditor extends JFrame implements ActionListener {
         this.add(fontColorButton);
         this.add(fontBox);
         this.add(scrollPane);
+        this.setLocationRelativeTo(null);
         this.setVisible(true);
     }
 

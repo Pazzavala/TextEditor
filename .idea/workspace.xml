@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8eb5b23-1bde-4ae0-b54e-01be29b4412b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TextEditor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TextEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TextEditor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +34,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Maria Zavala/Desktop/GitHub/JavaCode/TicTacToe",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
@@ -60,7 +60,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672194409814</updated>
-      <workItem from="1672194411330" duration="3284000" />
+      <workItem from="1672194411330" duration="3485000" />
+      <workItem from="1672220307614" duration="28000" />
+      <workItem from="1672221261768" duration="43000" />
     </task>
     <servers />
   </component>
